@@ -1,4 +1,4 @@
-You generate your character's six ability scores
+> You generate your character's six ability scores
 randomly. Roll four 6-sided dice and record the total of
 the highest three dice on a piece of scratch paper. Do
 this five more times, so that you have six numbers. If
