@@ -7,9 +7,5 @@ determining ability scores, you can use the following
 scores instead: 15, 14, 13, 12, 10, 8.
 
 4d6 keep 3, 5 times
-14
-16
-12
-17
-7
-15
+
+14, 16, 12, 17, 7, 15
