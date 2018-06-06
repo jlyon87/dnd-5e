@@ -1,9 +1,12 @@
 27 Point buy
 
+#### Classes
+
  * Life Cleric
  * Moon Druid
  * Hunter Ranger
 
+#### Race/Classes
 
  * human cleric, 14/14/14/11/16/10
  * wood elf ranger, 8/17/13/10/16/10
