@@ -1,9 +1,20 @@
 # dnd-5e
 
-Just keeping notes of adventures.
+> Just keeping notes of adventures.
 
-## Resources
+---
+## Starting Town
 
-* [point buy calculator](http://1-dot-encounter-planner.appspot.com/point-buy-calculator.html) - 27 point buy
-* [character sheet](https://drive.google.com/uc?export=download&id=1I1QeNVYEE4Q-XtoaPR71IRwBpuaI35R7) - Please limit yourselves to the race/class options in the Player's Handbook
-* [theater of the mind](http://s3.amazonaws.com/slyflourish_content/5e_guide_to_narrative_combat.pdf)
+ * Baldur's Gate
+   * Death Curse Rumor
+     * an illness targeting those that have been raised from the dead.
+     * newly dead folk cannot be raised.
+     * Bree is afflicted, she ded.
+       * Write a eulogy
+
+---
+## NPCS
+
+ * Bree Hilltopple
+   * Trader
+   * Halfling
